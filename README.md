@@ -14,7 +14,8 @@ This is a simple Weather App project using [OpenWeather API](https://openweather
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/sudhanshu-8/weather-app.git
+   cd weather-app
    cd weather-app
    ```
 
@@ -52,11 +53,6 @@ weather-app/
 ## Want to Contribute?
 
 Feel free to fork the repository and submit pull requests for new features or improvements. Contributions are welcome!
-
-## Join the Community
-
-- [GitHub Discussions](https://github.com/your-username/weather-app/discussions): Share ideas and feedback.
-- [Discord Community](https://discord.com/invite/xyz): Chat with other developers working on similar projects.
 
 Happy coding! 🚀
 
